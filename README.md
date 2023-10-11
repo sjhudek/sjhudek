@@ -1,8 +1,8 @@
 Hi 👋 My name is Steve Hudek
 ============================
 
-Full stack web developer, artist, cat dad
------------------------------------------
+Full stack web developer + artist + cat dad
+-------------------------------------------
 
 I've been developing and designing websites for over 10 years , mostly with WordPress using HTML, CSS and JavaScript. I've recently completed a full stack bootcamp where I really learned front end and backend development which included JavaScript, the MERN stack, ORM, SQL, NoSQL, MVC, and PWAs.
 
